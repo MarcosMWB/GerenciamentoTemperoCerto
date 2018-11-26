@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         buttonProfitManager.setOnClickListener{
-            val intent = Intent(this, Profit::class.java)
+            val intent = Intent(this, ActivityProfit::class.java)
             startActivity(intent)
         }
 
