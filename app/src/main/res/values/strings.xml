@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gerenciamento Tempero Certo</string>
+    <string name="quantidade">Quantidade:</string>
+    <string name="voltar">Voltar</string>
+    <string name="cadastrar_pedido">Cadastrar Pedido</string>
+    <string name="pedido">Pedido:</string>
+    <string name="tamanho">Tamanho:</string>
+</resources>
